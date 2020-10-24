@@ -5,8 +5,6 @@
         <FilterTodo />
         <Todos />
     </div>
-
-
 </template>
 
 <script>
@@ -26,7 +24,9 @@ export default {
 
 <style>
 /* GENERAL */
-*, *::before, *::after {
+*,
+*::before,
+*::after {
     box-sizing: border-box;
 }
 

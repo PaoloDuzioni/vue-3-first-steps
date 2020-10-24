@@ -39,5 +39,4 @@ export default Vuex.createStore({
         fetchTodos: (state, todos) => (state.todos = todos),
         addTodo: (state, todo) => state.todos.unshift(todo),
     },
-    modules: {},
 });
