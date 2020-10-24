@@ -3,3 +3,5 @@
 - Composition API
 - ref()
 - Vuex 4
+- Axios
+- Jsonplaceholder API
