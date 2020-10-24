@@ -1,6 +1,6 @@
 <template>
     <section class="filter-todo">
-        <h4>Flters</h4>
+        <h4>Number of Todos</h4>
         <form @submit.prevent="filterTodos">
             <input
                 type="number"
