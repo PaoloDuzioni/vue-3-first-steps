@@ -28,6 +28,7 @@ export default {
             // Call store action
             store.dispatch('onFilterTodos', limit.value);
         };
+
         return {
             limit,
             filterTodos,
